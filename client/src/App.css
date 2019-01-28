@@ -1,0 +1,11 @@
+#App{
+  background-image: url('https://i.imgur.com/QVFUaZP.jpg?1');
+  min-width: 100vw;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100%;
+  color: white;
+  font-family:'Roboto', sans-serif;
+}

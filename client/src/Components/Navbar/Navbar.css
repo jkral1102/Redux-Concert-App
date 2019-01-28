@@ -1,0 +1,16 @@
+#navbar {
+    width: 100vw;
+    min-height: 15vh;
+    background-color: #00000085;
+    color: white;
+    text-align: center;
+    padding: 25px 0 25px 0;
+}
+
+#navTitle{
+    font-size: 3.2em;
+}
+
+#navSubtitle{
+    font-size: 1.3em;
+}

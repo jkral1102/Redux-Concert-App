@@ -1,0 +1,49 @@
+#Calendar{
+   
+    max-width: 70vw;
+    opacity: 0.5;
+    margin: auto;
+}
+
+#CalendarBody div{
+    border: solid 0.5px white;
+}
+
+#CalendarMenu {
+    font-size: 25px;
+    display: flex;
+    
+}
+
+.title{
+    font-size: 35px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+#CalendarMenu div {
+    margin-right: 2em;
+}
+
+#CalendarMenu div:hover {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#CalendarBody{
+    display: flex;
+}
+
+#CalendarEvents{
+    flex: 2;
+}
+
+#Sidebar{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
