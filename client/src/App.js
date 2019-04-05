@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <Provider store={store}>
         <div id="App">
-          <Main />
+          <Main/>
         </div>
       </Provider>
     )

@@ -21,7 +21,8 @@ class Calendar extends Component {
           </div>
           <div id='Sidebar'>
             <Blog />
-            <Upload />
+            <Upload 
+              saveEvent={this.props.saveEvent}/>
           </div>
         </div>
       </div>
